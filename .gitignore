@@ -1,0 +1,7 @@
+.cache
+Makefile
+build
+build.sh
+compile_commands.json
+objs
+tags
